@@ -39,4 +39,4 @@ int main(){
     int arr[] = {2, 4, 6, 3, 5};
     Solution s;
     cout<<s.find3Numbers(arr,5,112)<<endl;
-}
+} 
